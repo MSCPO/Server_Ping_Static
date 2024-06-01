@@ -1,0 +1,15 @@
+{
+  "name": "server_ping_static",
+  "version": "0.0.1",
+  "description": "Server_Ping's static files",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:MSCPO/Server_Ping_Static.git"
+  },
+  "author": "mscpo",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/MSCPO/Server_Ping_Static/issues"
+  },
+  "homepage": "https://github.com/MSCPO/Server_Ping#readme"
+}
